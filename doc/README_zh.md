@@ -9,9 +9,6 @@
         <strong>去中心化社交网络（捍卫自由和隐私）</strong>
     </p>
     <p>
-        <strong>灵感来自 Iris Dating, Tinder, Bumble, Nextdoor, Bluesky, Mastodon</strong>
-    </p>
-    <p>
         <a href="https://github.com/MagpieSocial/Magpie/blob/main/LICENSE"><img
                 src="https://img.shields.io/github/license/MagpieSocial/Magpie-Core" alt="License" /></a>
         <a href="https://github.com/MagpieSocial/Magpie/actions"><img

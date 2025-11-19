@@ -9,9 +9,6 @@
         <strong>Decentralized social network (Defending Freedom and Privacy)</strong>
     </p>
     <p>
-        <strong>Inspired by Iris Dating, Tinder, Bumble, Nextdoor, Bluesky, Mastodon</strong>
-    </p>
-    <p>
         <a href="https://github.com/MagpieSocial/Magpie/blob/main/LICENSE"><img
                 src="https://img.shields.io/github/license/MagpieSocial/Magpie-Core" alt="License" /></a>
         <a href="https://github.com/MagpieSocial/Magpie/actions"><img
