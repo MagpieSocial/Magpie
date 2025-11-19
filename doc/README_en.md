@@ -1,7 +1,7 @@
 <div align="center">
     <p>
         <strong><a href="#en-us">English</a></strong> |
-        <strong><a href="doc/README_zh.md">简体中文</a></strong>
+        <strong><a href="README_zh.md">简体中文</a></strong>
     </p>
     <img src="https://github.com/MagpieSocial.png" alt="Magpie Logo" width="200" />
     <h1><a id="en-us">Magpie</a></h1>
@@ -21,7 +21,6 @@
                 src="https://img.shields.io/github/v/release/MagpieSocial/Magpie" alt="Latest Release" /></a>
     </p>
 </div>
-
 
 ## 🚩 Our Mission
 
